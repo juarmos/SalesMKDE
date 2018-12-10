@@ -12,9 +12,11 @@
 
         public bool IsAvailable { get; set; }
 
-        public decimal Preci  { get; set; }
+        public decimal Price  { get; set; }
 
         public DateTime PublishOn { get; set; }
+
+        
 
     }
 }
